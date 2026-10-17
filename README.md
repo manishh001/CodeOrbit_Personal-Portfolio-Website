@@ -82,10 +82,9 @@ Follow these steps to run the portfolio locally.
 Open your terminal and run:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/manishh001/CodeOrbit_Personal-Portfolio-Website.git
 ```
 
-Replace `<your-repository-url>` with the URL of your GitHub repository.
 
 ### 2. Navigate to the Project Directory
 
@@ -250,9 +249,9 @@ I enjoy transforming ideas into functional and visually appealing web experience
 
 ### 🔗 Connect With Me
 
-- **GitHub:** [manish001co-cmd](https://github.com/manish001co-cmd)
+- **GitHub:** [manishh001](https://github.com/manishh001)
 - **LinkedIn:** [Manish Kumar](https://www.linkedin.com/in/manish-kumar-3bb405322/)
-- **Portfolio:** [Visit My Portfolio](https://manish001co-cmd.github.io/protfolio/)
+- **Portfolio:** [Visit My Portfolio](https://manishh001.github.io/CodeOrbit_Personal-Portfolio-Website/)
 
 ## 📄 License
 
